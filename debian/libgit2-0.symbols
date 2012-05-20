@@ -1,0 +1,3 @@
+libgit2.so.0 libgit2-0 #MINVER#
+ (regex)"^git_.*@Base$" 0.16.0
+ (regex)"^giterr_.*@Base$" 0.16.0
