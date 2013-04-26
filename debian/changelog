@@ -1,3 +1,11 @@
+libgit2 (0.17.0-1tgi1) precise; urgency=low
+
+  * Backport to Lucid.
+  * Downgrade compat and debhelper to 7.
+  * Regenerated libgit2-0.symbols.
+
+ -- Nathaniel Nutter <nnutter@genome.wustl.edu>  Fri, 26 Apr 2013 14:03:56 -0500
+
 libgit2 (0.17.0-1) experimental; urgency=low
 
   * New Upstream Release.
